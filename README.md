@@ -76,7 +76,7 @@ find a new heuristic by yourself in this assignment.
 Randomly pick two jobs from the sequence and exchange them. A pseudocode is given
 below.
 
-oneOneExchange(jobsequence)
+### oneOneExchange(jobsequence)
 
 {
 
@@ -332,7 +332,6 @@ Statistics of the whole work is shown below:
     <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>5683491&nbsp;&nbsp;&nbsp;</th>
     <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>5657665&nbsp;&nbsp;&nbsp;</th>
   </tr>
-  
    <tr>
     <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>dataset_6.tx t&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>8&nbsp;&nbsp;&nbsp;</td>
