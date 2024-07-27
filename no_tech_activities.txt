@@ -1,0 +1,139 @@
+APP4MC
+AVSys
+Adoptium Incubator
+Advanced Scripting Environment (EASE)
+Agent Modeling Platform
+Aidge
+Ajax Tools Framework (ATF)
+Apogy
+ArchE
+AsciiDoc
+AsciiDoc Language
+Automotive
+B612
+BPEL Designer
+BPMN2 Modeler Project
+Business Process Model and Notation (BPMN2)
+CHESS
+Cloud Application Management Framework
+Cloud Development
+Code Recommenders
+CommaSuite
+Data Tools Connectivity
+Data Tools Model Base
+Data Tools SQL Dev Tools
+Digital Twin
+Duttile
+EATOP
+EGL Development Tools
+EMF Refactor
+EMFT Texo
+ESCET (Supervisory Control Engineering Toolkit)
+Equinox p2
+Fundamental Modeling Concepts
+GMF Tooling
+Gendoc
+Generative Modeling Technologies (GMT)
+GeoPeril
+GlassFish Tools
+Gran Sasso
+Graphene
+Graphical Editing Framework 3D
+Graphiti
+Handly
+Hawk
+Higgins
+Hudson
+IoT
+JWT
+Jubula Functional Testing Tool
+LSAT
+Libra
+LocationTech
+Lua Development Tools
+MDM|BL
+Mangrove - SOA Modeling Framework
+Maven Integration for Web Tools Platform
+Mbeddr
+Mission Control
+Mobile Tools for Java
+Model Driven Health Tools
+Model Focusing Tools
+Model To Text (M2T)
+Mylyn Builds
+Mylyn Commons
+Mylyn Docs
+Mylyn Incubator
+Mylyn Tasks
+Mylyn Versions
+OM2M
+OS-Gov
+Object Teams
+Ogee
+Oniro
+Oniro Blueprints
+Oniro Compliance Toolchain
+Open Standard Business Platform
+Open System Engineering Environment
+OpenCert
+OpenHW Group
+Paho Incubator
+Papyrus
+Photran Fortran Development Tools
+Plato
+PolarSys
+PolarSys 3P
+Process Framework Project
+Project
+Project Incubator
+QVT Operational
+QVTd (QVT Declarative)
+R4E (Review for Eclipse)
+RT
+RelEng
+Runtime Packaging Project
+SCA Tools
+SCAVA
+SMILA
+SOA Platform Project
+Safety Framework
+Sapphire
+Science
+SeCo Blocks
+Sequoyah
+SimRel
+Skalli
+Skills
+SommR
+Spatio-Temporal Epidemiological Modeler
+Sphinx
+StatET: Tooling for the R language
+Subversive SVN Team Provider
+SystemFOCUS
+TRACE4CPS
+Target Communication Framework
+Target Management: Terminal and Remote System Explorer (RSE)
+Technology
+Temurin Compliance
+Thym
+Tigerstripe
+Titan
+UFaceKit
+UML Generators
+UML Profiles Repository
+User Storage Service SDK
+VJet
+Visual Editor for XML
+WTP Incubator
+Wazaabi
+Webtools Releng
+XFSC (Cross Federation Services Components)
+XWT
+b3
+e4 Project
+eBAM
+eTrice
+openK Core Modules
+openK User Modules
+openK platform
+openPASS
